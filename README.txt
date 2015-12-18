@@ -7,7 +7,7 @@ https://www.coursera.org/learn/python-network-data/home/welcome
  
 The program  read through and parse a file with text and numbers and then extract all the numbers in the file and compute the sum of the numbers. The sum is printed out.
 
-An example of text file:
+An example of a text file:
 
 This file contains the actual data for your assignment - good luck!
 
